@@ -108,7 +108,18 @@ for i in range(odo.shape[0]-1):
 #faire la même chose en version runge kutta
 
 
+
+
+
 #faire la même chose en version Arc de cercle.
+
+odoARCTrajectoryX=[0.0]
+odoARCTrajectoryY=[0.0]
+
+
+
+
+
 
 
 
